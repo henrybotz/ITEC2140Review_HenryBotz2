@@ -4,15 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2182bd44-329f-4d1b-b802-1e773900c168" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayPractice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayPractice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopPractice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopPractice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringCharacterPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VariablePractice.java" afterDir="false" />
+    <list default="true" id="2182bd44-329f-4d1b-b802-1e773900c168" name="Changes" comment="2150">
+      <change afterPath="$PROJECT_DIR$/src/Circle/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Circle/CircleTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingBats/countOccurences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingBats/countVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingBats/factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingBats/isLeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingBats/reverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingBats/sumDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student/StudentTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,12 +43,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,6 +58,14 @@
       <option name="presentableId" value="Default" />
       <updated>1705421536663</updated>
     </task>
+    <task id="LOCAL-00001" summary="2150">
+      <created>1705423913803</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705423913803</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,5 +78,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2150" />
+    <option name="LAST_COMMIT_MESSAGE" value="2150" />
   </component>
 </project>
